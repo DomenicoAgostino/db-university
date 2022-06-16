@@ -27,3 +27,5 @@ GROUP BY `exam_id`;
 SELECT COUNT(id) AS `corsi_laurea`, `department_id` AS `dipartimento`
 FROM `degrees`
 GROUP BY `department_id`;
+
+
